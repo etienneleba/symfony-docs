@@ -990,7 +990,7 @@ Learn more
 
 .. _`PHPUnit`: https://phpunit.de/
 .. _`documentation`: https://phpunit.readthedocs.io/
-.. _`Writing Tests for PHPUnit`: https://phpunit.readthedocs.io/en/stable/writing-tests-for-phpunit.html
+.. _`Writing Tests for PHPUnit`: https://phpunit.readthedocs.io/en/9.5/writing-tests-for-phpunit.html
 .. _`PHPUnit documentation`: https://phpunit.readthedocs.io/en/stable/configuration.html
 .. _`unit test`: https://en.wikipedia.org/wiki/Unit_testing
 .. _`DAMADoctrineTestBundle`: https://github.com/dmaicher/doctrine-test-bundle
